@@ -81,3 +81,73 @@ URL 생성: 네이버 지도 검색 API를 이용하여 위도, 경도 정보를
 ![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/AED%20%EA%B3%B5%EC%9C%A0%20%EA%B2%B0%EA%B3%BC%EA%B0%92.jpg)
 
 
+
+----------------------------------------------------------------------------------------------
+
+
+# 앱설명
+
+
+"날씨 검색기" 앱은 사용자가 원하는 지역의 날씨 정보를 간편하게 확인할 수 있도록 도와주는 앱입니다.
+
+주요 기능: 지역 검색: 원하는 지역의 이름이나 지역 코드를 입력하여 날씨 정보를 검색할 수 있습니다.
+날씨 정보 제공: 검색한 지역의 현재 기온, 체감 온도, 강수 확률, 
+풍속, 풍향, 습도 등 
+다양한 날씨 정보를 한눈에 확인할 수 있습니다.
+
+
+# 디자이너
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88.png)
+
+
+컴포넌트
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-1.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-2.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-3.jpg)
+
+
+# 블록
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-1.png)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-2.png)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-3.png)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-4.png)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-5.png)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%EB%B8%94%EB%9F%AD-6.png)
+
+
+# 실행 결과
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EA%B2%B0%EA%B3%BC%EA%B0%92-1.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EA%B2%B0%EA%B3%BC%EA%B0%92-2.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EA%B2%B0%EA%B3%BC%EA%B0%92-3.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/weather%20%EA%B2%B0%EA%B3%BC%EA%B0%92-4.jpg)
+
+
+
+
+
