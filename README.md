@@ -66,9 +66,17 @@ AED를 처음 사용하는 사람들을 위해 간단한 메뉼얼과 위급한 
 URL 생성: 네이버 지도 검색 API를 이용하여 위도, 경도 정보를 포함한 검색 URL을 만듭니다.
 목적: 사용자에게 현재 위치의 주소를 알려주고, 해당 위치를 네이버 지도에서 확인할 수 있도록 합니다.
 
-실행결과
+
+# 실행결과
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/AED%20%EC%8B%A4%ED%96%89-1.jpg)
+
+
+![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/AED%20%EC%8B%A4%ED%96%89-2.jpg)
+
 
 ![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/AED%20%EB%AC%B8%EC%9E%90%20%EA%B2%B0%EA%B3%BC%EA%B0%92.jpg)
+
 
 ![문자결과](https://github.com/Jihanyu117/IOT2/blob/main/AED%20%EA%B3%B5%EC%9C%A0%20%EA%B2%B0%EA%B3%BC%EA%B0%92.jpg)
 
